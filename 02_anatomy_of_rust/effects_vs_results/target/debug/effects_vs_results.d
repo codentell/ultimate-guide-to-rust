@@ -1,0 +1,1 @@
+/Users/drewhoang/Desktop/ultimate-guide-to-rust/02_anatomy_of_rust/effects_vs_results/target/debug/effects_vs_results: /Users/drewhoang/Desktop/ultimate-guide-to-rust/02_anatomy_of_rust/effects_vs_results/src/main.rs
