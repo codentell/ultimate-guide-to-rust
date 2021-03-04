@@ -1,0 +1,1 @@
+/Users/drewhoang/Desktop/ultimate-guide-to-rust/01_hello_rust_and_variables/exercise/ex_04/target/debug/ex_04: /Users/drewhoang/Desktop/ultimate-guide-to-rust/01_hello_rust_and_variables/exercise/ex_04/src/main.rs
